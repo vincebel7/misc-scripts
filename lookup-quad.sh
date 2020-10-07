@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# lookup-AAAA.sh
-# Performs DNS lookups of all A.A.A.A format IP addresses
+# lookup-quad.sh
+# Performs reverse DNS lookups of all quad/A.A.A.A format IP addresses
 
 for a in {1..223}
 do
